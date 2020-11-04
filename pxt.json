@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        "Group testing": "github:afmcdnl/group-testing#626ecc21d45d03a14e23f9ad4cf418c090e226e7"
     },
     "files": [
         "main.blocks",
