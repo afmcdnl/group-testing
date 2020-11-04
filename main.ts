@@ -1,3 +1,6 @@
+input.onButtonPressed(Button.A, function () {
+    radio.sendNumber(0)
+})
 input.onGesture(Gesture.Shake, function () {
     basic.showLeds(`
         . . # . .
